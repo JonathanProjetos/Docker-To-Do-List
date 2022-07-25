@@ -1,7 +1,7 @@
 # Docker-To-Do-List
 
 # Contexto
-Esta é uma aplicação full-stack front-end/back-end e nela foi implementado a conteinerização através do docker, a aplicação tem como objetivo praticar e implementar comandos docker, afim de sedimentar o conhecimento sobre o assunto.
+Esta é uma aplicação full-stack front-end/back-end e nela foi implementado a conteinerização através do docker, o uso da aplicação tem como objetivo praticar e implementar comandos docker, afim de sedimentar o conhecimento sobre o assunto.
 
 ## Técnologias usadas
 
