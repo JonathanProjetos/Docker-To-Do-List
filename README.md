@@ -1,7 +1,7 @@
 # Docker-To-Do-List
 
 # Contexto
-Este projeto trata-se de uma ferramenta de back-office para armazenar e buscar dados de erros que ocorreram com clientes.
+Esta é uma aplicação full-stack front-end/back-end e nela foi implementado a conteinerização através do docker, a aplicação tem como objetivo praticar e implementar comandos docker, afim de sedimentar o conhecimento sobre o assunto.
 
 ## Técnologias usadas
 
