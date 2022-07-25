@@ -1,16 +1,29 @@
-# 🚧 README em construção 🚧
+# My Awesome Project
 
-<!-- Olá, Tryber!
+# Contexto
+Este projeto trata-se de uma ferramenta de back-office para armazenar e buscar dados de erros que ocorreram com clientes.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Técnologias usadas
 
-É essencial que você preencha esse documento por conta própria, ok?
+Back-end:
+> Desenvolvido usando: Docker, Docker-compose
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## Instalando Dependências
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+> Docker
+```bash
+cd api/ 
+npm install
+``` 
+## Aviso Importante 
+Para roda a aplicação e necessário esta com o docker instalado  no dispositivo, caso não esteja instalado você pode encontra como instalar neste [link](https://docs.docker.com/engine/install/ubuntu/) site oficial 
 
--->
+## Executando Testes
+
+* Para rodar todos os testes:
+
+> Test
+```bash
+cd src/ 
+npm test
+``` 
