@@ -1,4 +1,4 @@
-# My Awesome Project
+# Docker-To-Do-List
 
 # Contexto
 Este projeto trata-se de uma ferramenta de back-office para armazenar e buscar dados de erros que ocorreram com clientes.
